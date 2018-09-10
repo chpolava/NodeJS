@@ -1,0 +1,198 @@
+{
+    "member": {
+        "mbrUid": "315052444",
+        "userNm": "~SIT3SUB835T91771",
+        "webGuid": "09c30089-48dc-4da8-a4e6-09cffb287773",
+        "firstNm": "RAG",
+        "lastNm": "NAIR",
+        "dob": "1981-05-02",
+        "genderCd": {
+            "code": "M",
+            "name": "Male",
+            "description": "Male"
+        },
+        "registrationTypeCd": "MEMBER",
+        "eligibility": [
+            {
+                "contractUid": "E87D80127740017B23E07FE7AF998675",
+                "hcId": "YEY835T91771",
+                "relationshipCd": {
+                    "code": "SCRBR",
+                    "name": "Subscriber",
+                    "description": "Subscriber"
+                },
+                "planIndicators": [
+                    "HAS_LHO"
+                ],
+                "statusCd": {
+                    "code": "A",
+                    "name": "Active",
+                    "description": "Active"
+                },
+                "effectiveDt": "2018-01-01",
+                "mbrSequenceNbr": "10",
+                "contractId": "835T91771",
+                "contractDataSource": "EHUB",
+                "brandCd": {
+                    "code": "EBC",
+                    "name": "EMPIRE BC",
+                    "description": "EMPIRE BLUE CROSS"
+                },
+                "underwritingStateCd": {
+                    "code": "NY",
+                    "name": "New York"
+                },
+                "sourceSystemId": "WGS20",
+                "groupNm": "EYP, INC.",
+                "groupId": "720663",
+                "mbuCd": {
+                    "code": "LG",
+                    "name": "Large Group"
+                },
+                "alphaPrefix": "YEY",
+                "subscriberId": "RN0404004",
+                "residentialStateCd": {
+                    "code": "OH",
+                    "name": "OH",
+                    "description": "OHIO"
+                },
+                "enrollmentTypeCd": {
+                    "code": "SBSCRM",
+                    "name": "Male subscriber only",
+                    "description": "Indicates that the coverage is for male subscriber only"
+                },
+                "coverage": [
+                    {
+                        "coverageKey": "2NE4-20180101-20181231-MED",
+                        "statusCd": {
+                            "code": "A",
+                            "name": "Active",
+                            "description": "Active"
+                        },
+                        "effectiveDt": "2018-01-01",
+                        "terminationDt": "2018-12-31",
+                        "product": [
+                            {
+                                "productId": "2NE4",
+                                "subgroupId": "720663021M",
+                                "planNm": "EPO",
+                                "healthcareArgmtCd": {
+                                    "code": "EPO",
+                                    "name": "Exclusive Provider Organization"
+                                },
+                                "jaaInd": "N",
+                                "coverageType": [
+                                    {
+                                        "coverageTypeCd": {
+                                            "code": "MED",
+                                            "name": "Medical"
+                                        }
+                                    },
+                                    {
+                                        "coverageTypeCd": {
+                                            "code": "PHAR",
+                                            "name": "PHARMACY",
+                                            "description": "PHARMACY"
+                                        },
+                                        "vendor": {
+                                            "vendorId": "1508504497176558563564808",
+                                            "vendorNm": "ESC"
+                                        },
+                                        "carveInd": "Carve-In"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "omeEnabled": "FALSE",
+                "oeEnabled": "FALSE"
+            },
+            {
+                "contractUid": "96DFEB6F371A2FB0AAC3FF0846D71F30",
+                "hcId": "835T91771",
+                "relationshipCd": {
+                    "code": "SCRBR",
+                    "name": "Subscriber",
+                    "description": "Subscriber"
+                },
+                "planIndicators": [
+                    "HAS_LHO"
+                ],
+                "statusCd": {
+                    "code": "A",
+                    "name": "Active",
+                    "description": "Active"
+                },
+                "effectiveDt": "2018-01-01",
+                "mbrSequenceNbr": "10",
+                "contractId": "835T91771",
+                "contractDataSource": "EHUB",
+                "underwritingStateCd": {
+                    "code": "VA",
+                    "name": "VIRGINIA",
+                    "description": "VIRGINIA"
+                },
+                "sourceSystemId": "WGS20",
+                "groupNm": "TEST VA",
+                "groupId": "TESTVA",
+                "mbuCd": {
+                    "code": "NT",
+                    "name": "NATIONAL",
+                    "description": "NATIONAL"
+                },
+                "subscriberId": "RN0404004",
+                "residentialStateCd": {
+                    "code": "OH",
+                    "name": "OH",
+                    "description": "OHIO"
+                },
+                "enrollmentTypeCd": {
+                    "code": "SBSCRM",
+                    "name": "Male subscriber only",
+                    "description": "Indicates that the coverage is for male subscriber only"
+                },
+                "coverage": [
+                    {
+                        "coverageKey": "CQ23-20180101-20181231-VSN",
+                        "statusCd": {
+                            "code": "A",
+                            "name": "Active",
+                            "description": "Active"
+                        },
+                        "effectiveDt": "2018-01-01",
+                        "terminationDt": "2018-12-31",
+                        "product": [
+                            {
+                                "productId": "CQ23",
+                                "subgroupId": "TESTVA0401",
+                                "planNm": "BLUE VIEW",
+                                "healthcareArgmtCd": {
+                                    "code": "VIS",
+                                    "name": "Vision",
+                                    "description": "Vision"
+                                },
+                                "jaaInd": "Y",
+                                "coverageType": [
+                                    {
+                                        "coverageTypeCd": {
+                                            "code": "VSN",
+                                            "name": "Vision",
+                                            "description": "Vision"
+                                        },
+                                        "vendor": {
+                                            "vendorId": "1492177492126397955171",
+                                            "vendorNm": "EMD"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "omeEnabled": "FALSE",
+                "oeEnabled": "FALSE"
+            }
+        ]
+    }
+}
